@@ -537,8 +537,10 @@ async function init() {
   setMode("single");
 }
 
-startCameraButton.addEventListener("click", () => {
-  alert("Kamera butonu çalışıyor!");
+onsole.log("MARKETIM JS ÇALIŞIYOR");
+
+window.addEventListener("error", event => {
+  alert("JavaScript hatası: " + event.message);
 });
-console.log("MARKETIM JS ÇALIŞIYOR");
- init();
+
+init();
