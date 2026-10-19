@@ -537,4 +537,7 @@ async function init() {
   setMode("single");
 }
 
+startCameraButton.addEventListener("click", () => {
+  alert("Kamera butonu çalışıyor!");
+});
  init();
