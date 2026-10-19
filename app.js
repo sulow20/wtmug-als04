@@ -540,4 +540,5 @@ async function init() {
 startCameraButton.addEventListener("click", () => {
   alert("Kamera butonu çalışıyor!");
 });
+console.log("MARKETIM JS ÇALIŞIYOR");
  init();
