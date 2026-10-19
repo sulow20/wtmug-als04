@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Marketim - Barkod Okuyucu",
+  "short_name": "Marketim",
+  "description": "Market ürünlerini okutun ve sepet fiyatını hesaplayın.",
+  "lang": "tr-TR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6f4",
+  "theme_color": "#146b45",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

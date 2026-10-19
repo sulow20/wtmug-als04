@@ -1,0 +1,28 @@
+[
+  {
+    "barcode": "8690632041827",
+    "name": "Toz Kahve",
+    "brand": "Nescafe",
+    "category": "Gıda",
+    "price": 15.00,
+    "quantity": "10 gram"
+  },
+
+  {
+  "barcode": "4015000090940",
+  "name": "Stick Yapıştırıcı",
+  "brand": "Pritt",
+  "category": "Kırtasiye",
+  "price": 80.00,
+  "quantity": "43 gram"
+}
+
+{
+  "barcode": "8690857011964",
+  "name": "10 Numara Zımba Teli",
+  "brand": "3A",
+  "category": "Kırtasiye",
+  "price": 35.00,
+  "quantity": "1000 Adet"
+}
+]
